@@ -1,0 +1,5 @@
+*.json text eol=lf
+*.lua  text eol=lf
+*.md   text eol=lf diff=markdown
+*.toml text eol=lf
+*.yml  text eol=lf
