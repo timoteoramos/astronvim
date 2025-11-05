@@ -19,6 +19,7 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.terraform" },
+  { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.yaml" },
 }
