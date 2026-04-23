@@ -6,6 +6,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.docker.lazydocker" },
   { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cmake" },
@@ -13,6 +14,7 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.eslint" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.php" },
@@ -21,5 +23,4 @@ return {
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typescript" },
-  { import = "astrocommunity.pack.yaml" },
 }
